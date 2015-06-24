@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/guyer/2015-07-23-nist"
-workshop_site   : "http://guyer.github.io/2015-07-23-nist"
+workshop_repo   : "http://github.com/usnistgov/2015-07-23-nist"
+workshop_site   : "http://usnistgov.github.io/2015-07-23-nist"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
